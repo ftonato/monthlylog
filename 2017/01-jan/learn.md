@@ -1,11 +1,11 @@
 ﻿## Learn
 
-[Programador vá procurar a sua turma!][1]
-[Será que sou bom o suficiente?][2]
-[Metas para 2017 - vai ter muito JavaScript, Nodejs, ES6 e Haskell esse ano][3]
-[Protegendo Clientes: Envenenamento de DNS][4]
-[Síndrome do Impostor #372][5]
-[Erros e Exceções - PHP: Do Jeito Certo][6]
+[Programador vá procurar a sua turma!][1]  
+[Será que sou bom o suficiente?][2]  
+[Metas para 2017 - vai ter muito JavaScript, Nodejs, ES6 e Haskell esse ano][3]  
+[Protegendo Clientes: Envenenamento de DNS][4]  
+[Síndrome do Impostor #372][5]  
+[Erros e Exceções - PHP: Do Jeito Certo][6]  
 
 [1]: http://bit.ly/2hM4Mhn
 [2]: http://bit.ly/2iElqnQ
